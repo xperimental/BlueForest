@@ -12,6 +12,7 @@ Currently _BlueForest_ provides matching colors for these languages/file types:
 * Django/Jinja2 Templates
 * Erb
 * Erlang
+* Go
 * Groovy
 * GQL
 * Haml
